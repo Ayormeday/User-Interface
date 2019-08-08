@@ -61,10 +61,6 @@ header .logo {
 	margin-top: -200px;
 }
 
-
-
-
-
 div.text-content {
 	display: inline-block;
     width: 445px;
@@ -84,6 +80,7 @@ div.other-content {
     width: 280px;
     margin-left: 0px;
 	margin-top: 20px;
+	padding-right: 10px;
 
 }
 
